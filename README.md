@@ -1,3 +1,3 @@
 pip3 install requests
 
-python
+python weatherScraper.py
